@@ -64,11 +64,7 @@ img {
   padding: 10px;
 }
 
-.footer {
-   position: fixed;
-   bottom: 0;
-   width: 100%;
-   background-color: brown;
-   color: white;
-   text-align: center;
- }
+.footer{
+  text-align: center;
+
+}
