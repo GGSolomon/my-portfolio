@@ -1,5 +1,5 @@
 # My Portfolio
-#### This webpage captures details about me and my web design projects, 05/2020
+#### This webpage captures details about me and my web design projects, Last Updated on 04/05/2020
 #### By Solomon Gichuru
 ## Description
 The page shall enable visitors to have an indepth view of my work and competence. It shall provideviewers with a list of my previous work as well as what I am able to offer.
