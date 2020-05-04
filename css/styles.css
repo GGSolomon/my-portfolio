@@ -15,6 +15,14 @@ p{
   text-align: center;
 }
 
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
 body {
   background-color: #ffdab3;
   padding: 20px;
@@ -23,13 +31,12 @@ body {
 }
 
 .page {
-  float: right;
   width: 50%;
 }
 
 img {
   width: 300px;
-  height: 350px;
+  height: 317px;
   float: left;
 }
 
